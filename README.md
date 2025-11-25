@@ -4,6 +4,10 @@ Bu proje, Türkiye genelindeki deprem verilerini analiz ederek il bazlı risk sk
 
 Amaç; bireylerin, şehir planlamacılarının ve yerel yönetimlerin daha bilinçli risk değerlendirmesi yapabilmesine katkı sağlamaktır.
 
+
+##  Live Dashboard
+🔗 https://ppgoyy4bztfzk3kzdy9jpf.streamlit.app/
+
 ---
 
 ##  Proje Özellikleri
